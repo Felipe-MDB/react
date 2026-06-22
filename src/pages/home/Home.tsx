@@ -72,7 +72,7 @@ function Home() {
             }}
           >
             <img
-              src="https://imgur.com"
+              src="https://i.imgur.com/fyfrilv.png"
               alt="Imagem Pagina Home"
               style={{
                 width: "66%",
